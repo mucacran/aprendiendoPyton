@@ -1,0 +1,7 @@
+https://byui-cse.github.io/cse111-course/lesson05/check.html
+MAC
+python3 -m pip install --user --upgrade pip setuptools wheel
+WIN
+python -m pip install --user --upgrade pip setuptools wheel
+
+
