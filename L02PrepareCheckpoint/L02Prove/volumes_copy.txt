@@ -1,0 +1,21 @@
+current date
+width of the tire
+aspect ratio of the tire
+diameter of the wheel
+volume of the tire
+
+¡Esto es una línea adicional!
+¡Hola, mundo!
+
+¡Esto es una línea adicional!
+¡Hola, mundo!
+
+¡Esto es una línea adicional!
+¡Hola, mundo!
+Sergio Bravo
+45, 78
+
+¡Esto es una línea adicional!
+¡Hola, mundo!
+Sergio Bravo
+45, 78

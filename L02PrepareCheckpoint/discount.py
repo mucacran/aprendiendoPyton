@@ -25,3 +25,5 @@ else:
 
 
 
+#link de ka tarea
+#https://byui-cse.github.io/cse111-course/lesson02/teach.html
