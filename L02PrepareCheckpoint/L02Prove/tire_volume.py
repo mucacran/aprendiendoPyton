@@ -35,7 +35,7 @@ prices = {
 
 # Usar la variable booleana según la res
 if ask:
-    # Buscar el precio correspondiente
+    # ask the name and cell for this want buy a tire
     name = input("please, give me your name: ")
     tel = input("please, give me cell phone number: ")
 
