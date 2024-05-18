@@ -24,7 +24,6 @@ def get_determiner(quantity):
     word = random.choice(words)
     return word
 
-
 def get_noun(quantity):
     """Return a randomly chosen noun.
     If quantity is 1, this function will
@@ -93,7 +92,6 @@ def get_verb(quantity, tense):
     # Randomly choose and return a verb.
     word = random.choice(words)
     return word
-
 
 def make_sentence(quantity, tense):
     """Build and return a sentence with three words:

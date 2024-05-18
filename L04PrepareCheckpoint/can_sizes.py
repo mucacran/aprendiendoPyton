@@ -26,7 +26,7 @@ def compute_storage_efficiency(r,a):
 
 def compute_cost_efficiency(r,a):
     cv = compute_volume(r,a)
-    return cv;
+    return cv
 
 
 def compute_volume(r,a):
