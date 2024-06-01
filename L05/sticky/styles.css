@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.section {
+    height: 100vh; /* Ajusta la altura de cada sección según sea necesario */
+    position: sticky;
+    top: 0;
+    padding: 20px;
+    box-sizing: border-box;
+    z-index: 1;
+    background-color: #f4f4f4;
+    border-bottom: 1px solid #ccc;
+}
+
+.section:nth-child(even) {
+    background-color: #e4e4e4;
+}
+
+h2 {
+    margin: 0;
+    padding: 10px 0;
+}
+
+p {
+    margin: 0;
+}
