@@ -4,4 +4,4 @@ python3 -m pip install --user --upgrade pip setuptools wheel
 WIN
 python -m pip install --user --upgrade pip setuptools wheel
 
-
+python -m pytest test_sqrt.py
